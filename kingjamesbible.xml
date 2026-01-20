@@ -24,7 +24,7 @@
   </work>
 </header>
 <div type="book" osisID="Gen" canonical="true">
-<title type="main">THE FIRST BOOK OF MOSES CALLED GENESIS</title>
+<title type="main" short="Genesis">THE FIRST BOOK OF MOSES CALLED GENESIS</title>
 <chapter osisID="Gen.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Gen.1.1" sID="Gen.1.1"/>In the beginning God created the heaven and the earth.<verse eID="Gen.1.1"/>
@@ -1710,7 +1710,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Exod" canonical="true">
-<title type="main">THE SECOND BOOK OF MOSES CALLED EXODUS</title>
+<title type="main" short="Exodus">THE SECOND BOOK OF MOSES CALLED EXODUS</title>
 <chapter osisID="Exod.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Exod.1.1" sID="Exod.1.1"/>Now these <transChange type="added">are</transChange> the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.<verse eID="Exod.1.1"/>
@@ -3046,7 +3046,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Lev" canonical="true">
-<title type="main">THE THIRD BOOK OF MOSES CALLED LEVITICUS</title>
+<title type="main" short="Leviticus">THE THIRD BOOK OF MOSES CALLED LEVITICUS</title>
 <chapter osisID="Lev.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Lev.1.1" sID="Lev.1.1"/>And the <divineName>Lord</divineName> called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,<verse eID="Lev.1.1"/>
@@ -3989,7 +3989,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Num" canonical="true">
-<title type="main">THE FOURTH BOOK OF MOSES CALLED NUMBERS</title>
+<title type="main" short="Numbers">THE FOURTH BOOK OF MOSES CALLED NUMBERS</title>
 <chapter osisID="Num.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Num.1.1" sID="Num.1.1"/>And the <divineName>Lord</divineName> spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first <transChange type="added">day</transChange> of the second month, in the second year after they were come out of the land of Egypt, saying,<verse eID="Num.1.1"/>
@@ -5388,7 +5388,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Deut" canonical="true">
-<title type="main">THE FIFTH BOOK OF MOSES CALLED DEUTERONOMY</title>
+<title type="main" short="Deuteronomy">THE FIFTH BOOK OF MOSES CALLED DEUTERONOMY</title>
 <chapter osisID="Deut.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Deut.1.1" sID="Deut.1.1"/>These <transChange type="added">be</transChange> the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red <transChange type="added">sea</transChange>, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.<note type="study">the Red…: or, Zuph</note><verse eID="Deut.1.1"/>
@@ -6452,7 +6452,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Josh" canonical="true">
-<title type="main">THE BOOK OF JOSHUA</title>
+<title type="main" short="Joshua">THE BOOK OF JOSHUA</title>
 <chapter osisID="Josh.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Josh.1.1" sID="Josh.1.1"/>Now after the death of Moses the servant of the <divineName>Lord</divineName> it came to pass, that the <divineName>Lord</divineName> spake unto Joshua the son of Nun, Moses’ minister, saying,<verse eID="Josh.1.1"/>
@@ -7185,7 +7185,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Judg" canonical="true">
-<title type="main">THE BOOK OF JUDGES</title>
+<title type="main" short="Judges">THE BOOK OF JUDGES</title>
 <chapter osisID="Judg.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Judg.1.1" sID="Judg.1.1"/>Now after the death of Joshua it came to pass, that the children of Israel asked the <divineName>Lord</divineName>, saying, Who shall go up for us against the Canaanites first, to fight against them?<verse eID="Judg.1.1"/>
@@ -7869,7 +7869,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Ruth" canonical="true">
-<title type="main">THE BOOK OF RUTH</title>
+<title type="main" short="Ruth">THE BOOK OF RUTH</title>
 <chapter osisID="Ruth.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Ruth.1.1" sID="Ruth.1.1"/>Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Beth–lehem–judah went to sojourn in the country of Moab, he, and his wife, and his two sons.<note type="study">ruled: Heb. judged</note><verse eID="Ruth.1.1"/>
@@ -7969,7 +7969,7 @@
 </chapter>
 </div>
 <div type="book" osisID="1Sam" canonical="true">
-<title type="main">THE FIRST BOOK OF SAMUEL OTHERWISE CALLED THE FIRST BOOK OF THE KINGS</title>
+<title type="main" short="I Samuel">THE FIRST BOOK OF SAMUEL OTHERWISE CALLED THE FIRST BOOK OF THE KINGS</title>
 <chapter osisID="1Sam.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="1Sam.1.1" sID="1Sam.1.1"/>Now there was a certain man of Ramathaim–zophim, of mount Ephraim, and his name <transChange type="added">was</transChange> Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite:<verse eID="1Sam.1.1"/>
@@ -8875,7 +8875,7 @@
 </chapter>
 </div>
 <div type="book" osisID="2Sam" canonical="true">
-<title type="main">THE SECOND BOOK OF SAMUEL OTHERWISE CALLED THE SECOND BOOK OF THE KINGS</title>
+<title type="main" short="II Samuel">THE SECOND BOOK OF SAMUEL OTHERWISE CALLED THE SECOND BOOK OF THE KINGS</title>
 <chapter osisID="2Sam.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="2Sam.1.1" sID="2Sam.1.1"/>Now it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had abode two days in Ziklag;<verse eID="2Sam.1.1"/>
@@ -9645,7 +9645,7 @@
 </chapter>
 </div>
 <div type="book" osisID="1Kgs" canonical="true">
-<title type="main">THE FIRST BOOK OF THE KINGS COMMONLY CALLED THE THIRD BOOK OF THE KINGS</title>
+<title type="main" short="I Kings">THE FIRST BOOK OF THE KINGS COMMONLY CALLED THE THIRD BOOK OF THE KINGS</title>
 <chapter osisID="1Kgs.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="1Kgs.1.1" sID="1Kgs.1.1"/>Now king David was old <transChange type="added">and</transChange> stricken in years; and they covered him with clothes, but he gat no heat.<note type="study">stricken…: Heb. entered into days</note><verse eID="1Kgs.1.1"/>
@@ -10530,7 +10530,7 @@
 </chapter>
 </div>
 <div type="book" osisID="2Kgs" canonical="true">
-<title type="main">THE SECOND BOOK OF THE KINGS COMMONLY CALLED THE FOURTH BOOK OF THE KINGS</title>
+<title type="main" short="II Kings">THE SECOND BOOK OF THE KINGS COMMONLY CALLED THE FOURTH BOOK OF THE KINGS</title>
 <chapter osisID="2Kgs.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="2Kgs.1.1" sID="2Kgs.1.1"/>Then Moab rebelled against Israel after the death of Ahab.<verse eID="2Kgs.1.1"/>
@@ -11327,7 +11327,7 @@
 </chapter>
 </div>
 <div type="book" osisID="1Chr" canonical="true">
-<title type="main">THE FIRST BOOK OF THE CHRONICLES</title>
+<title type="main" short="I Chronicles">THE FIRST BOOK OF THE CHRONICLES</title>
 <chapter osisID="1Chr.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="1Chr.1.1" sID="1Chr.1.1"/>Adam, Sheth, Enosh,<verse eID="1Chr.1.1"/>
@@ -12359,7 +12359,7 @@
 </chapter>
 </div>
 <div type="book" osisID="2Chr" canonical="true">
-<title type="main">THE SECOND BOOK OF THE CHRONICLES</title>
+<title type="main" short="II Chronicles">THE SECOND BOOK OF THE CHRONICLES</title>
 <chapter osisID="2Chr.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="2Chr.1.1" sID="2Chr.1.1"/>And Solomon the son of David was strengthened in his kingdom, and the <divineName>Lord</divineName> his God <transChange type="added">was</transChange> with him, and magnified him exceedingly.<verse eID="2Chr.1.1"/>
@@ -13292,7 +13292,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Ezra" canonical="true">
-<title type="main">EZRA</title>
+<title type="main" short="Ezra">EZRA</title>
 <chapter osisID="Ezra.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Ezra.1.1" sID="Ezra.1.1"/>Now in the first year of Cyrus king of Persia, that the word of the <divineName>Lord</divineName> by the mouth of Jeremiah might be fulfilled, the <divineName>Lord</divineName> stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and <transChange type="added">put it</transChange> also in writing, saying,<note type="study">made…: Heb. caused a voice to pass</note><verse eID="Ezra.1.1"/>
@@ -13605,7 +13605,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Neh" canonical="true">
-<title type="main">THE BOOK OF NEHEMIAH</title>
+<title type="main" short="Nehemiah">THE BOOK OF NEHEMIAH</title>
 <chapter osisID="Neh.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Neh.1.1" sID="Neh.1.1"/>The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,<verse eID="Neh.1.1"/>
@@ -14053,7 +14053,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Esth" canonical="true">
-<title type="main">THE BOOK OF ESTHER</title>
+<title type="main" short="Esther">THE BOOK OF ESTHER</title>
 <chapter osisID="Esth.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Esth.1.1" sID="Esth.1.1"/>Now it came to pass in the days of Ahasuerus, (this <transChange type="added">is</transChange> Ahasuerus which reigned, from India even unto Ethiopia, <transChange type="added">over</transChange> an hundred and seven and twenty provinces:)<verse eID="Esth.1.1"/>
@@ -14253,7 +14253,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Job" canonical="true">
-<title type="main">THE BOOK OF JOB</title>
+<title type="main" short="Job">THE BOOK OF JOB</title>
 <chapter osisID="Job.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Job.1.1" sID="Job.1.1"/>There was a man in the land of Uz, whose name <transChange type="added">was</transChange> Job; and that man was perfect and upright, and one that feared God, and eschewed evil.<verse eID="Job.1.1"/>
@@ -15452,7 +15452,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Ps" canonical="true">
-<title type="main">THE BOOK OF PSALMS</title>
+<title type="main" short="Psalms">THE BOOK OF PSALMS</title>
 <chapter osisID="Ps.1" chapterTitle="PSALM 1.">
 <title type="chapter">PSALM 1.</title>
 <verse osisID="Ps.1.1" sID="Ps.1.1"/>Blessed <transChange type="added">is</transChange> the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.<note type="study">ungodly: or, wicked</note><verse eID="Ps.1.1"/>
@@ -18366,7 +18366,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Prov" canonical="true">
-<title type="main">THE PROVERBS</title>
+<title type="main" short="Proverbs">THE PROVERBS</title>
 <chapter osisID="Prov.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Prov.1.1" sID="Prov.1.1"/>The proverbs of Solomon the son of David, king of Israel;<verse eID="Prov.1.1"/>
@@ -19377,7 +19377,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Eccl" canonical="true">
-<title type="main">ECCLESIASTES OR, THE PREACHER</title>
+<title type="main" short="Ecclesiastes">ECCLESIASTES OR, THE PREACHER</title>
 <chapter osisID="Eccl.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Eccl.1.1" sID="Eccl.1.1"/>The words of the Preacher, the son of David, king in Jerusalem.<verse eID="Eccl.1.1"/>
@@ -19638,7 +19638,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Song" canonical="true">
-<title type="main">THE SONG OF SOLOMON</title>
+<title type="main" short="Song of Solomon">THE SONG OF SOLOMON</title>
 <chapter osisID="Song.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Song.1.1" sID="Song.1.1"/>The song of songs, which <transChange type="added">is</transChange> Solomon’s.<verse eID="Song.1.1"/>
@@ -19782,7 +19782,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Isa" canonical="true">
-<title type="main">THE BOOK OF THE PROPHET ISAIAH</title>
+<title type="main" short="Isaiah">THE BOOK OF THE PROPHET ISAIAH</title>
 <chapter osisID="Isa.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Isa.1.1" sID="Isa.1.1"/>The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, <transChange type="added">and</transChange> Hezekiah, kings of Judah.<verse eID="Isa.1.1"/>
@@ -21275,7 +21275,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Jer" canonical="true">
-<title type="main">THE BOOK OF THE PROPHET JEREMIAH</title>
+<title type="main" short="Jeremiah">THE BOOK OF THE PROPHET JEREMIAH</title>
 <chapter osisID="Jer.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Jer.1.1" sID="Jer.1.1"/>The words of Jeremiah the son of Hilkiah, of the priests that <transChange type="added">were</transChange> in Anathoth in the land of Benjamin:<verse eID="Jer.1.1"/>
@@ -22798,7 +22798,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Lam" canonical="true">
-<title type="main">THE LAMENTATIONS OF JEREMIAH</title>
+<title type="main" short="Lamentations">THE LAMENTATIONS OF JEREMIAH</title>
 <chapter osisID="Lam.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Lam.1.1" sID="Lam.1.1"/>How doth the city sit solitary, <transChange type="added">that was</transChange> full of people! <transChange type="added">how</transChange> is she become as a widow! she <transChange type="added">that was</transChange> great among the nations, <transChange type="added">and</transChange> princess among the provinces, <transChange type="added">how</transChange> is she become tributary!<verse eID="Lam.1.1"/>
@@ -22970,7 +22970,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Ezek" canonical="true">
-<title type="main">THE BOOK OF THE PROPHET EZEKIEL</title>
+<title type="main" short="Ezekiel">THE BOOK OF THE PROPHET EZEKIEL</title>
 <chapter osisID="Ezek.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Ezek.1.1" sID="Ezek.1.1"/>Now it came to pass in the thirtieth year, in the fourth <transChange type="added">month</transChange>, in the fifth <transChange type="added">day</transChange> of the month, as I <transChange type="added">was</transChange> among the captives by the river of Chebar, <transChange type="added">that</transChange> the heavens were opened, and I saw visions of God.<note type="study">captives: Heb. captivity</note><verse eID="Ezek.1.1"/>
@@ -24390,7 +24390,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Dan" canonical="true">
-<title type="main">THE BOOK OF DANIEL</title>
+<title type="main" short="Daniel">THE BOOK OF DANIEL</title>
 <chapter osisID="Dan.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Dan.1.1" sID="Dan.1.1"/>In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it.<verse eID="Dan.1.1"/>
@@ -24786,7 +24786,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Hos" canonical="true">
-<title type="main">HOSEA</title>
+<title type="main" short="Hosea">HOSEA</title>
 <chapter osisID="Hos.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Hos.1.1" sID="Hos.1.1"/>The word of the <divineName>Lord</divineName> that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, <transChange type="added">and</transChange> Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.<verse eID="Hos.1.1"/>
@@ -25028,7 +25028,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Joel" canonical="true">
-<title type="main">JOEL</title>
+<title type="main" short="Joel">JOEL</title>
 <chapter osisID="Joel.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Joel.1.1" sID="Joel.1.1"/>The word of the <divineName>Lord</divineName> that came to Joel the son of Pethuel.<verse eID="Joel.1.1"/>
@@ -25113,7 +25113,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Amos" canonical="true">
-<title type="main">AMOS</title>
+<title type="main" short="Amos">AMOS</title>
 <chapter osisID="Amos.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Amos.1.1" sID="Amos.1.1"/>The words of Amos, who was among the herdmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.<verse eID="Amos.1.1"/>
@@ -25289,7 +25289,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Obad" canonical="true">
-<title type="main">OBADIAH</title>
+<title type="main" short="Obadiah">OBADIAH</title>
 <chapter osisID="Obad.1">
 <verse osisID="Obad.1.1" sID="Obad.1.1"/>The vision of Obadiah. Thus saith the Lord <divineName>God</divineName> concerning Edom; We have heard a rumour from the <divineName>Lord</divineName>, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.<verse eID="Obad.1.1"/>
 <verse osisID="Obad.1.2" sID="Obad.1.2"/>Behold, I have made thee small among the heathen: thou art greatly despised.<verse eID="Obad.1.2"/>
@@ -25315,7 +25315,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Jonah" canonical="true">
-<title type="main">JONAH</title>
+<title type="main" short="Jonah">JONAH</title>
 <chapter osisID="Jonah.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Jonah.1.1" sID="Jonah.1.1"/>Now the word of the <divineName>Lord</divineName> came unto Jonah the son of Amittai, saying,<note type="study">Jonah: Gr. Jonas</note><verse eID="Jonah.1.1"/>
@@ -25378,7 +25378,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Mic" canonical="true">
-<title type="main">MICAH</title>
+<title type="main" short="Micah">MICAH</title>
 <chapter osisID="Mic.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Mic.1.1" sID="Mic.1.1"/>The word of the <divineName>Lord</divineName> that came to Micah the Morasthite in the days of Jotham, Ahaz, <transChange type="added">and</transChange> Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.<verse eID="Mic.1.1"/>
@@ -25507,7 +25507,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Nah" canonical="true">
-<title type="main">NAHUM</title>
+<title type="main" short="Nahum">NAHUM</title>
 <chapter osisID="Nah.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Nah.1.1" sID="Nah.1.1"/>The burden of Nineveh. The book of the vision of Nahum the Elkoshite.<verse eID="Nah.1.1"/>
@@ -25566,7 +25566,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Hab" canonical="true">
-<title type="main">HABAKKUK</title>
+<title type="main" short="Habakkuk">HABAKKUK</title>
 <chapter osisID="Hab.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Hab.1.1" sID="Hab.1.1"/>The burden which Habakkuk the prophet did see.<verse eID="Hab.1.1"/>
@@ -25634,7 +25634,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Zeph" canonical="true">
-<title type="main">ZEPHANIAH</title>
+<title type="main" short="Zephaniah">ZEPHANIAH</title>
 <chapter osisID="Zeph.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Zeph.1.1" sID="Zeph.1.1"/>The word of the <divineName>Lord</divineName> which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.<verse eID="Zeph.1.1"/>
@@ -25699,7 +25699,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Hag" canonical="true">
-<title type="main">HAGGAI</title>
+<title type="main" short="Haggai">HAGGAI</title>
 <chapter osisID="Hag.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Hag.1.1" sID="Hag.1.1"/>In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the <divineName>Lord</divineName> by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,<note type="study">by: Heb. by the hand of</note><note type="study">governor: or, captain</note><verse eID="Hag.1.1"/>
@@ -25746,7 +25746,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Zech" canonical="true">
-<title type="main">ZECHARIAH</title>
+<title type="main" short="Zechariah">ZECHARIAH</title>
 <chapter osisID="Zech.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Zech.1.1" sID="Zech.1.1"/>In the eighth month, in the second year of Darius, came the word of the <divineName>Lord</divineName> unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,<verse eID="Zech.1.1"/>
@@ -26002,7 +26002,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Mal" canonical="true">
-<title type="main">MALACHI</title>
+<title type="main" short="Malachi">MALACHI</title>
 <chapter osisID="Mal.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Mal.1.1" sID="Mal.1.1"/>The burden of the word of the <divineName>Lord</divineName> to Israel by Malachi.<note type="study">by…: Heb. by the hand of</note><verse eID="Mal.1.1"/>
@@ -26072,7 +26072,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Matt" canonical="true">
-<title type="main">THE GOSPEL ACCORDING TO <abbr expansion="Saint">ST.</abbr> MATTHEW</title>
+<title type="main" short="Matthew">THE GOSPEL ACCORDING TO <abbr expansion="Saint">ST.</abbr> MATTHEW</title>
 <chapter osisID="Matt.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Matt.1.1" sID="Matt.1.1"/>The book of the generation of Jesus Christ, the son of David, the son of Abraham.<verse eID="Matt.1.1"/>
@@ -27230,7 +27230,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Mark" canonical="true">
-<title type="main">THE GOSPEL ACCORDING TO <abbr expansion="Saint">ST.</abbr> MARK</title>
+<title type="main" short="Mark">THE GOSPEL ACCORDING TO <abbr expansion="Saint">ST.</abbr> MARK</title>
 <chapter osisID="Mark.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Mark.1.1" sID="Mark.1.1"/>The beginning of the gospel of Jesus Christ, the Son of God;<verse eID="Mark.1.1"/>
@@ -27959,7 +27959,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Luke" canonical="true">
-<title type="main">THE GOSPEL ACCORDING TO <abbr expansion="Saint">ST.</abbr> LUKE</title>
+<title type="main" short="Luke">THE GOSPEL ACCORDING TO <abbr expansion="Saint">ST.</abbr> LUKE</title>
 <chapter osisID="Luke.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Luke.1.1" sID="Luke.1.1"/>Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,<verse eID="Luke.1.1"/>
@@ -29185,7 +29185,7 @@
 </chapter>
 </div>
 <div type="book" osisID="John" canonical="true">
-<title type="main">THE GOSPEL ACCORDING TO <abbr expansion="Saint">ST.</abbr> JOHN</title>
+<title type="main" short="John">THE GOSPEL ACCORDING TO <abbr expansion="Saint">ST.</abbr> JOHN</title>
 <chapter osisID="John.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="John.1.1" sID="John.1.1"/>In the beginning was the Word, and the Word was with God, and the Word was God.<verse eID="John.1.1"/>
@@ -30130,7 +30130,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Acts" canonical="true">
-<title type="main">THE ACTS OF THE APOSTLES</title>
+<title type="main" short="Acts">THE ACTS OF THE APOSTLES</title>
 <chapter osisID="Acts.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Acts.1.1" sID="Acts.1.1"/>The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,<verse eID="Acts.1.1"/>
@@ -31224,7 +31224,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Rom" canonical="true">
-<title type="main">THE EPISTLE OF PAUL THE APOSTLE TO THE ROMANS</title>
+<title type="main" short="Romans">THE EPISTLE OF PAUL THE APOSTLE TO THE ROMANS</title>
 <chapter osisID="Rom.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Rom.1.1" sID="Rom.1.1"/>Paul, a servant of Jesus Christ, called <transChange type="added">to be</transChange> an apostle, separated unto the gospel of God,<verse eID="Rom.1.1"/>
@@ -31709,7 +31709,7 @@
 <div type="colophon" osisID="Rom.c">Written to the Romans from Corinthus, <transChange type="added">and sent</transChange> by Phebe servant of the church at Cenchrea.</div>
 </div>
 <div type="book" osisID="1Cor" canonical="true">
-<title type="main">THE FIRST EPISTLE OF PAUL THE APOSTLE TO THE CORINTHIANS</title>
+<title type="main" short="I Corinthians">THE FIRST EPISTLE OF PAUL THE APOSTLE TO THE CORINTHIANS</title>
 <chapter osisID="1Cor.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="1Cor.1.1" sID="1Cor.1.1"/>Paul, called <transChange type="added">to be</transChange> an apostle of Jesus Christ through the will of God, and Sosthenes <transChange type="added">our</transChange> brother,<verse eID="1Cor.1.1"/>
@@ -32198,7 +32198,7 @@
 <div type="colophon" osisID="1Cor.c">The first <transChange type="added">epistle</transChange> to the Corinthians was written from Philippi by Stephanas, and Fortunatus, and Achaicus, and Timotheus.</div>
 </div>
 <div type="book" osisID="2Cor" canonical="true">
-<title type="main">THE SECOND EPISTLE OF PAUL THE APOSTLE TO THE CORINTHIANS</title>
+<title type="main" short="II Corinthians">THE SECOND EPISTLE OF PAUL THE APOSTLE TO THE CORINTHIANS</title>
 <chapter osisID="2Cor.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="2Cor.1.1" sID="2Cor.1.1"/>Paul, an apostle of Jesus Christ by the will of God, and Timothy <transChange type="added">our</transChange> brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:<verse eID="2Cor.1.1"/>
@@ -32498,7 +32498,7 @@
 <div type="colophon" osisID="2Cor.c">The second <transChange type="added">epistle</transChange> to the Corinthians was written from Philippi, <transChange type="added">a city</transChange> of Macedonia, by Titus and Lucas.</div>
 </div>
 <div type="book" osisID="Gal" canonical="true">
-<title type="main">THE EPISTLE OF PAUL THE APOSTLE TO THE GALATIANS</title>
+<title type="main" short="Galatians">THE EPISTLE OF PAUL THE APOSTLE TO THE GALATIANS</title>
 <chapter osisID="Gal.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Gal.1.1" sID="Gal.1.1"/>Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)<verse eID="Gal.1.1"/>
@@ -32669,7 +32669,7 @@
 <div type="colophon" osisID="Gal.c">Unto the Galatians written from Rome.</div>
 </div>
 <div type="book" osisID="Eph" canonical="true">
-<title type="main">THE EPISTLE OF PAUL THE APOSTLE TO THE EPHESIANS</title>
+<title type="main" short="Ephesians">THE EPISTLE OF PAUL THE APOSTLE TO THE EPHESIANS</title>
 <chapter osisID="Eph.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Eph.1.1" sID="Eph.1.1"/>Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:<verse eID="Eph.1.1"/>
@@ -32846,7 +32846,7 @@
 <div type="colophon" osisID="Eph.c">Written from Rome unto the Ephesians by Tychicus.</div>
 </div>
 <div type="book" osisID="Phil" canonical="true">
-<title type="main">THE EPISTLE OF PAUL THE APOSTLE TO THE PHILIPPIANS</title>
+<title type="main" short="Philippians">THE EPISTLE OF PAUL THE APOSTLE TO THE PHILIPPIANS</title>
 <chapter osisID="Phil.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Phil.1.1" sID="Phil.1.1"/>Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:<verse eID="Phil.1.1"/>
@@ -32966,7 +32966,7 @@
 <div type="colophon" osisID="Phil.c">It was written to the Philippians from Rome by Epaphroditus.</div>
 </div>
 <div type="book" osisID="Col" canonical="true">
-<title type="main">THE EPISTLE OF PAUL THE APOSTLE TO THE COLOSSIANS</title>
+<title type="main" short="Colossians">THE EPISTLE OF PAUL THE APOSTLE TO THE COLOSSIANS</title>
 <chapter osisID="Col.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Col.1.1" sID="Col.1.1"/>Paul, an apostle of Jesus Christ by the will of God, and Timotheus <transChange type="added">our</transChange> brother,<verse eID="Col.1.1"/>
@@ -33077,7 +33077,7 @@
 <div type="colophon" osisID="Col.c">Written from Rome to the Colossians by Tychicus and Onesimus.</div>
 </div>
 <div type="book" osisID="1Thess" canonical="true">
-<title type="main">THE FIRST EPISTLE OF PAUL THE APOSTLE TO THE THESSALONIANS</title>
+<title type="main" short="I Thessalonians">THE FIRST EPISTLE OF PAUL THE APOSTLE TO THE THESSALONIANS</title>
 <chapter osisID="1Thess.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="1Thess.1.1" sID="1Thess.1.1"/>Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians <transChange type="added">which is</transChange> in God the Father and <transChange type="added">in</transChange> the Lord Jesus Christ: Grace <transChange type="added">be</transChange> unto you, and peace, from God our Father, and the Lord Jesus Christ.<verse eID="1Thess.1.1"/>
@@ -33185,7 +33185,7 @@
 <div type="colophon" osisID="1Thess.c">The first <transChange type="added">epistle</transChange> unto the Thessalonians was written from Athens.</div>
 </div>
 <div type="book" osisID="2Thess" canonical="true">
-<title type="main">THE SECOND EPISTLE OF PAUL THE APOSTLE TO THE THESSALONIANS</title>
+<title type="main" short="II Thessalonians">THE SECOND EPISTLE OF PAUL THE APOSTLE TO THE THESSALONIANS</title>
 <chapter osisID="2Thess.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="2Thess.1.1" sID="2Thess.1.1"/>Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:<verse eID="2Thess.1.1"/>
@@ -33245,7 +33245,7 @@
 <div type="colophon" osisID="2Thess.c">The second <transChange type="added">epistle</transChange> to the Thessalonians was written from Athens.</div>
 </div>
 <div type="book" osisID="1Tim" canonical="true">
-<title type="main">THE FIRST EPISTLE OF PAUL THE APOSTLE TO TIMOTHY</title>
+<title type="main" short="I Timothy">THE FIRST EPISTLE OF PAUL THE APOSTLE TO TIMOTHY</title>
 <chapter osisID="1Tim.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="1Tim.1.1" sID="1Tim.1.1"/>Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, <transChange type="added">which is</transChange> our hope;<verse eID="1Tim.1.1"/>
@@ -33380,7 +33380,7 @@
 <div type="colophon" osisID="1Tim.c">The first to Timothy was written from Laodicea, which is the chiefest city of Phrygia Pacatiana.</div>
 </div>
 <div type="book" osisID="2Tim" canonical="true">
-<title type="main">THE SECOND EPISTLE OF PAUL THE APOSTLE TO TIMOTHY</title>
+<title type="main" short="II Timothy">THE SECOND EPISTLE OF PAUL THE APOSTLE TO TIMOTHY</title>
 <chapter osisID="2Tim.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="2Tim.1.1" sID="2Tim.1.1"/>Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,<verse eID="2Tim.1.1"/>
@@ -33479,7 +33479,7 @@
 <div type="colophon" osisID="2Tim.c">The second <transChange type="added">epistle</transChange> unto Timotheus, ordained the first bishop of the church of the Ephesians, was written from Rome, when Paul was brought before Nero the second time.</div>
 </div>
 <div type="book" osisID="Titus" canonical="true">
-<title type="main">THE EPISTLE OF PAUL THE APOSTLE TO TITUS</title>
+<title type="main" short="Titus">THE EPISTLE OF PAUL THE APOSTLE TO TITUS</title>
 <chapter osisID="Titus.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Titus.1.1" sID="Titus.1.1"/>Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the acknowledging of the truth which is after godliness;<verse eID="Titus.1.1"/>
@@ -33538,7 +33538,7 @@
 <div type="colophon" osisID="Titus.c">It was written to Titus, ordained the first bishop of the church of the Cretians, from Nicopolis of Macedonia.</div>
 </div>
 <div type="book" osisID="Phlm" canonical="true">
-<title type="main">THE EPISTLE OF PAUL THE APOSTLE TO PHILEMON</title>
+<title type="main" short="Philemon">THE EPISTLE OF PAUL THE APOSTLE TO PHILEMON</title>
 <chapter osisID="Phlm.1">
 <verse osisID="Phlm.1.1" sID="Phlm.1.1"/>Paul, a prisoner of Jesus Christ, and Timothy <transChange type="added">our</transChange> brother, unto Philemon our dearly beloved, and fellowlabourer,<verse eID="Phlm.1.1"/>
 <verse osisID="Phlm.1.2" sID="Phlm.1.2"/>And to <transChange type="added">our</transChange> beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:<verse eID="Phlm.1.2"/>
@@ -33569,7 +33569,7 @@
 <div type="colophon" osisID="Phlm.c">Written from Rome to Philemon, by Onesimus a servant.</div>
 </div>
 <div type="book" osisID="Heb" canonical="true">
-<title type="main">THE EPISTLE OF PAUL THE APOSTLE TO THE HEBREWS</title>
+<title type="main" short="Hebrews">THE EPISTLE OF PAUL THE APOSTLE TO THE HEBREWS</title>
 <chapter osisID="Heb.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Heb.1.1" sID="Heb.1.1"/>God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,<verse eID="Heb.1.1"/>
@@ -33915,7 +33915,7 @@
 <div type="colophon" osisID="Heb.c">Written to the Hebrews from Italy by Timothy.</div>
 </div>
 <div type="book" osisID="Jas" canonical="true">
-<title type="main">THE GENERAL EPISTLE OF JAMES</title>
+<title type="main" short="James">THE GENERAL EPISTLE OF JAMES</title>
 <chapter osisID="Jas.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Jas.1.1" sID="Jas.1.1"/>James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.<verse eID="Jas.1.1"/>
@@ -34041,7 +34041,7 @@
 </chapter>
 </div>
 <div type="book" osisID="1Pet" canonical="true">
-<title type="main">THE FIRST EPISTLE GENERAL OF PETER</title>
+<title type="main" short="I Peter">THE FIRST EPISTLE GENERAL OF PETER</title>
 <chapter osisID="1Pet.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="1Pet.1.1" sID="1Pet.1.1"/>Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,<verse eID="1Pet.1.1"/>
@@ -34164,7 +34164,7 @@
 </chapter>
 </div>
 <div type="book" osisID="2Pet" canonical="true">
-<title type="main">THE SECOND EPISTLE GENERAL OF PETER</title>
+<title type="main" short="II Peter">THE SECOND EPISTLE GENERAL OF PETER</title>
 <chapter osisID="2Pet.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="2Pet.1.1" sID="2Pet.1.1"/>Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:<verse eID="2Pet.1.1"/>
@@ -34237,7 +34237,7 @@
 </chapter>
 </div>
 <div type="book" osisID="1John" canonical="true">
-<title type="main">THE FIRST EPISTLE GENERAL OF JOHN</title>
+<title type="main" short="I John">THE FIRST EPISTLE GENERAL OF JOHN</title>
 <chapter osisID="1John.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="1John.1.1" sID="1John.1.1"/>That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;<verse eID="1John.1.1"/>
@@ -34360,7 +34360,7 @@
 </chapter>
 </div>
 <div type="book" osisID="2John" canonical="true">
-<title type="main">THE SECOND EPISTLE OF JOHN</title>
+<title type="main" short="II John">THE SECOND EPISTLE OF JOHN</title>
 <chapter osisID="2John.1">
 <verse osisID="2John.1.1" sID="2John.1.1"/>The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth;<verse eID="2John.1.1"/>
 <verse osisID="2John.1.2" sID="2John.1.2"/>For the truth’s sake, which dwelleth in us, and shall be with us for ever.<verse eID="2John.1.2"/>
@@ -34378,7 +34378,7 @@
 </chapter>
 </div>
 <div type="book" osisID="3John" canonical="true">
-<title type="main">THE THIRD EPISTLE OF JOHN</title>
+<title type="main" short="III John">THE THIRD EPISTLE OF JOHN</title>
 <chapter osisID="3John.1">
 <verse osisID="3John.1.1" sID="3John.1.1"/>The elder unto the wellbeloved Gaius, whom I love in the truth.<verse eID="3John.1.1"/>
 <verse osisID="3John.1.2" sID="3John.1.2"/><milestone type="x-extra-p"/>Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth.<verse eID="3John.1.2"/>
@@ -34397,7 +34397,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Jude" canonical="true">
-<title type="main">THE GENERAL EPISTLE OF JUDE</title>
+<title type="main" short="Jude">THE GENERAL EPISTLE OF JUDE</title>
 <chapter osisID="Jude.1">
 <verse osisID="Jude.1.1" sID="Jude.1.1"/>Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, <transChange type="added">and</transChange> called:<verse eID="Jude.1.1"/>
 <verse osisID="Jude.1.2" sID="Jude.1.2"/>Mercy unto you, and peace, and love, be multiplied.<verse eID="Jude.1.2"/>
@@ -34427,7 +34427,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Rev" canonical="true">
-<title type="main">THE REVELATION OF <abbr expansion="Saint">ST.</abbr> JOHN THE DIVINE</title>
+<title type="main" short="Revelation">THE REVELATION OF <abbr expansion="Saint">ST.</abbr> JOHN THE DIVINE</title>
 <chapter osisID="Rev.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Rev.1.1" sID="Rev.1.1"/>The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified <transChange type="added">it</transChange> by his angel unto his servant John:<verse eID="Rev.1.1"/>

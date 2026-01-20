@@ -26099,7 +26099,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Matt" canonical="true">
-<title type="main" short="Matthew">THE GOSPEL ACCORDING TO <abbr expansion="Saint">ST.</abbr> MATTHEW</title>
+<title type="main" short="Matthew">THE GOSPEL ACCORDING TO MATTHEW</title>
 <chapter osisID="Matt.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Matt.1.1" sID="Matt.1.1"/>The book of the generation of Jesus Christ, the son of David, the son of Abraham.<verse eID="Matt.1.1"/>
@@ -27257,7 +27257,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Mark" canonical="true">
-<title type="main" short="Mark">THE GOSPEL ACCORDING TO <abbr expansion="Saint">ST.</abbr> MARK</title>
+<title type="main" short="Mark">THE GOSPEL ACCORDING TO MARK</title>
 <chapter osisID="Mark.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Mark.1.1" sID="Mark.1.1"/>The beginning of the gospel of Jesus Christ, the Son of God;<verse eID="Mark.1.1"/>
@@ -27986,7 +27986,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Luke" canonical="true">
-<title type="main" short="Luke">THE GOSPEL ACCORDING TO <abbr expansion="Saint">ST.</abbr> LUKE</title>
+<title type="main" short="Luke">THE GOSPEL ACCORDING TO LUKE</title>
 <chapter osisID="Luke.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Luke.1.1" sID="Luke.1.1"/>Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,<verse eID="Luke.1.1"/>
@@ -29212,7 +29212,7 @@
 </chapter>
 </div>
 <div type="book" osisID="John" canonical="true">
-<title type="main" short="John">THE GOSPEL ACCORDING TO <abbr expansion="Saint">ST.</abbr> JOHN</title>
+<title type="main" short="John">THE GOSPEL ACCORDING TO JOHN</title>
 <chapter osisID="John.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="John.1.1" sID="John.1.1"/>In the beginning was the Word, and the Word was with God, and the Word was God.<verse eID="John.1.1"/>
@@ -34454,7 +34454,7 @@
 </chapter>
 </div>
 <div type="book" osisID="Rev" canonical="true">
-<title type="main" short="Revelation">THE REVELATION OF <abbr expansion="Saint">ST.</abbr> JOHN THE DIVINE</title>
+<title type="main" short="Revelation">THE REVELATION OF JESUS CHRIST</title>
 <chapter osisID="Rev.1" chapterTitle="CHAPTER 1.">
 <title type="chapter">CHAPTER 1.</title>
 <verse osisID="Rev.1.1" sID="Rev.1.1"/>The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified <transChange type="added">it</transChange> by his angel unto his servant John:<verse eID="Rev.1.1"/>

@@ -15454,6 +15454,7 @@
 <div type="book" osisID="Ps" canonical="true">
 <title type="main" short="Psalms">THE BOOK OF PSALMS</title>
 <chapter osisID="Ps.1" chapterTitle="PSALM 1.">
+<title type="sub">BOOK I.</title>
 <title type="chapter">PSALM 1.</title>
 <verse osisID="Ps.1.1" sID="Ps.1.1"/>Blessed <transChange type="added">is</transChange> the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.<note type="study">ungodly: or, wicked</note><verse eID="Ps.1.1"/>
 <verse osisID="Ps.1.2" sID="Ps.1.2"/>But his delight <transChange type="added">is</transChange> in the law of the <divineName>Lord</divineName>; and in his law doth he meditate day and night.<verse eID="Ps.1.2"/>
@@ -16193,6 +16194,7 @@
 <verse osisID="Ps.41.13" sID="Ps.41.13"/>Blessed <transChange type="added">be</transChange> the <divineName>Lord</divineName> God of Israel from everlasting, and to everlasting. Amen, and Amen.<verse eID="Ps.41.13"/>
 </chapter>
 <chapter osisID="Ps.42" chapterTitle="PSALM 42.">
+<title type="sub">BOOK II.</title>
 <title type="chapter">PSALM 42.</title>
 <title type="psalm" canonical="true">To the chief Musician, Maschil, for the sons of Korah.</title><verse osisID="Ps.42.1" sID="Ps.42.1"/>As the hart panteth after the water brooks, so panteth my soul after thee, O God.<note type="study">Maschil…: or, A Psalm giving instruction of the sons, etc</note><note type="study">panteth: Heb. brayeth</note><verse eID="Ps.42.1"/>
 <verse osisID="Ps.42.2" sID="Ps.42.2"/>My soul thirsteth for God, for the living God: when shall I come and appear before God?<verse eID="Ps.42.2"/>
@@ -16751,6 +16753,7 @@
 <verse osisID="Ps.72.20" sID="Ps.72.20"/>The prayers of David the son of Jesse are ended.<verse eID="Ps.72.20"/>
 </chapter>
 <chapter osisID="Ps.73" chapterTitle="PSALM 73.">
+<title type="sub">BOOK III.</title>
 <title type="chapter">PSALM 73.</title>
 <title type="psalm" canonical="true">A Psalm of Asaph.</title><verse osisID="Ps.73.1" sID="Ps.73.1"/>Truly God <transChange type="added">is</transChange> good to Israel, <transChange type="added">even</transChange> to such as are of a clean heart.<note type="study">of: or, for</note><note type="study">Truly: or, Yet</note><note type="study">of…: Heb. clean of heart</note><verse eID="Ps.73.1"/>
 <verse osisID="Ps.73.2" sID="Ps.73.2"/>But as for me, my feet were almost gone; my steps had well nigh slipped.<verse eID="Ps.73.2"/>
@@ -17160,6 +17163,7 @@
 <verse osisID="Ps.89.52" sID="Ps.89.52"/>Blessed <transChange type="added">be</transChange> the <divineName>Lord</divineName> for evermore. Amen, and Amen.<verse eID="Ps.89.52"/>
 </chapter>
 <chapter osisID="Ps.90" chapterTitle="PSALM 90.">
+<title type="sub">BOOK IV.</title>
 <title type="chapter">PSALM 90.</title>
 <title type="psalm" canonical="true">A Prayer of Moses the man of God.</title><verse osisID="Ps.90.1" sID="Ps.90.1"/>Lord, thou hast been our dwelling place in all generations.<note type="study">A Prayer…: or, A Prayer, being a Psalm of Moses</note><note type="study">in…: Heb. in generation and generation</note><verse eID="Ps.90.1"/>
 <verse osisID="Ps.90.2" sID="Ps.90.2"/>Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou <transChange type="added">art</transChange> God.<verse eID="Ps.90.2"/>
@@ -17532,6 +17536,7 @@
 <verse osisID="Ps.106.48" sID="Ps.106.48"/>Blessed <transChange type="added">be</transChange> the <divineName>Lord</divineName> God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the <divineName>Lord</divineName>.<note type="study">Praise…: Heb. Hallelujah</note><verse eID="Ps.106.48"/>
 </chapter>
 <chapter osisID="Ps.107" chapterTitle="PSALM 107.">
+<title type="sub">BOOK V.</title>
 <title type="chapter">PSALM 107.</title>
 <verse osisID="Ps.107.1" sID="Ps.107.1"/>O give thanks unto the <divineName>Lord</divineName>, for <transChange type="added">he is</transChange> good: for his mercy <transChange type="added">endureth</transChange> for ever.<verse eID="Ps.107.1"/>
 <verse osisID="Ps.107.2" sID="Ps.107.2"/>Let the redeemed of the <divineName>Lord</divineName> say <transChange type="added">so</transChange>, whom he hath redeemed from the hand of the enemy;<verse eID="Ps.107.2"/>

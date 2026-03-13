@@ -6,4 +6,3 @@ TODOs:
 - [ ] Create a list of spellings to update
   - shew -> show, Esaias -> Isaiah, etc.
 - [ ] Add quotation marks
-  - Started in the `quotation-marks` branch
